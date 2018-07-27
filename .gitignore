@@ -1,2 +1,8 @@
 
 .DS_Store
+/EatHutchSolution/.vs
+/EatHutchSolution/packages
+/EatHutchSolution/EatHutchWindow/obj/Debug
+/EatHutchSolution/EatHutchWindow/bin/Debug
+/EatHutchSolution/EatHutchWebAPI/bin
+/EatHutchSolution/EatHutchWebAPI/obj/Debug

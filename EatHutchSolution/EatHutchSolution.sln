@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EatHutchWindow", "EatHutchWindow\EatHutchWindow.csproj", "{561271D0-9BB1-47F8-AA6E-6130C55E92AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EatHutchWebAPI", "EatHutchWebAPI\EatHutchWebAPI.csproj", "{811938B0-D588-427D-A677-6A17F0057785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{561271D0-9BB1-47F8-AA6E-6130C55E92AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561271D0-9BB1-47F8-AA6E-6130C55E92AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561271D0-9BB1-47F8-AA6E-6130C55E92AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561271D0-9BB1-47F8-AA6E-6130C55E92AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811938B0-D588-427D-A677-6A17F0057785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811938B0-D588-427D-A677-6A17F0057785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811938B0-D588-427D-A677-6A17F0057785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811938B0-D588-427D-A677-6A17F0057785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {961DC574-D2AA-48D4-AD56-9D3664174702}
+	EndGlobalSection
+EndGlobal
